@@ -22,10 +22,10 @@ const items =[
 ]
 function HowItWorks() {
   return (
-    <div className="w-full py-20 flex flex-col gap-20">
+    <div className="w-full py-20 px-2 flex flex-col gap-20">
         <div className="text-center flex flex-col gap-10">
             <div className='flex flex-col gap-10'>
-                <h1 className="font-bold text-3xl">HOW IT WORKS</h1>
+                <h1 className="font-bold text-2xl md:text-3xl">HOW IT WORKS</h1>
                 <h1 className="font-bold text-xl">From scattered ideas to focused progress.</h1>
             </div>
         </div>

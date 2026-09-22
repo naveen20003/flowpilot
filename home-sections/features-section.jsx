@@ -26,7 +26,7 @@ const items =[
 ]
 function FEaturesSection() {
   return (
-    <div className="w-full py-20 flex flex-col gap-20">
+    <div className="w-full py-20 px-4 flex flex-col gap-20">
         <div className="text-center flex flex-col gap-10">
             <div>
                 <h1 className="font-bold text-4xl">Features</h1>

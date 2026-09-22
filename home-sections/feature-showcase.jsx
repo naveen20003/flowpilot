@@ -2,10 +2,10 @@ import React from 'react'
 
 function FeatureShowcaseSection() {
   return (
-    <div className="w-full py-20 flex flex-col gap-20">
+    <div className="w-full py-10 flex flex-col gap-20">
         <div className="text-center flex flex-col gap-10">
             <div className='flex flex-col gap-10'>
-                <h1 className="font-bold text-3xl">FEATURE SHOWCASE</h1>
+                <h1 className="font-bold text-2xl md:text-3xl">FEATURE SHOWCASE</h1>
                 <h1 className="font-bold text-xl">Plan the work. Then get to it</h1>
             </div>
         </div>
