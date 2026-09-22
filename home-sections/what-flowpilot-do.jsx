@@ -6,7 +6,7 @@ function WhatFlowpilotDo() {
             <h1 className="font-serif text-center text-2xl md:text-3xl font-bold">What flowpilot actually do?</h1>
         </div>
         <div className="px-5 text-center text-sm">
-            <h1 className="text-center text-xl font-light">Work shouldn't feel like work about work.</h1>
+            <h1 className="text-center md:font-bold md:text-xl">Work shouldn't feel like work about work.</h1>
         </div>
         <div className="grid grid-cols-1 md:grid-cols-2 gap-5 p-5">
             <div className="flex flex-col justify-center gap-5">

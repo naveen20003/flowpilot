@@ -67,7 +67,7 @@ function ReviewsSection() {
 
       {/* Heading */}
       <div className="mb-14 px-6 text-center">
-        <h1 className="text-3xl font-bold">
+        <h1 className="text-2xl md:text-3xl font-bold">
           Loved by teams that move fast
         </h1>
 

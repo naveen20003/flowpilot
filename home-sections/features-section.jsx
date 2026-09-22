@@ -32,8 +32,8 @@ function FEaturesSection() {
                 <h1 className="font-bold text-4xl">Features</h1>
             </div>
             <div>
-                <h1 className="font-bold text-xl">Everything your team needs to move forward</h1>
-                <h1 className="">From your first idea to your next milestone, FlowPilot gives your team a clearer way to plan and manage work.</h1>
+                <h1 className="font-semibold md:font-bold md:text-xl">Everything your team needs to move forward</h1>
+                <h1 className="text-xs">From your first idea to your next milestone, FlowPilot gives your team a clearer way to plan and manage work.</h1>
             </div>
         </div>
         <div className="grid grid-cols-1 md:grid-cols-2 p-5 text-center gap-10">
